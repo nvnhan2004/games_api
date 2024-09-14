@@ -1,0 +1,14 @@
+G:\DuAn\Games\api\Games\Games.Data\bin\Debug\net6.0\Games.Data.deps.json
+G:\DuAn\Games\api\Games\Games.Data\bin\Debug\net6.0\Games.Data.runtimeconfig.json
+G:\DuAn\Games\api\Games\Games.Data\bin\Debug\net6.0\Games.Data.dll
+G:\DuAn\Games\api\Games\Games.Data\bin\Debug\net6.0\Games.Data.pdb
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.csproj.AssemblyReference.cache
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.AssemblyInfoInputs.cache
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.AssemblyInfo.cs
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.csproj.CoreCompileInputs.cache
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.dll
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\refint\Games.Data.dll
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.pdb
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\Games.Data.genruntimeconfig.cache
+G:\DuAn\Games\api\Games\Games.Data\obj\Debug\net6.0\ref\Games.Data.dll

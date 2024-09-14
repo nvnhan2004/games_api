@@ -1,0 +1,15 @@
+G:\DuAn\Games\api\Games\Games.Services\bin\Release\net6.0\Games.Services.deps.json
+G:\DuAn\Games\api\Games\Games.Services\bin\Release\net6.0\Games.Services.dll
+G:\DuAn\Games\api\Games\Games.Services\bin\Release\net6.0\Games.Services.pdb
+G:\DuAn\Games\api\Games\Games.Services\bin\Release\net6.0\Games.Data.dll
+G:\DuAn\Games\api\Games\Games.Services\bin\Release\net6.0\Games.Data.pdb
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.csproj.AssemblyReference.cache
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.AssemblyInfoInputs.cache
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.AssemblyInfo.cs
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.csproj.CoreCompileInputs.cache
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.csproj.CopyComplete
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.dll
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\refint\Games.Services.dll
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\Games.Services.pdb
+G:\DuAn\Games\api\Games\Games.Services\obj\Release\net6.0\ref\Games.Services.dll
